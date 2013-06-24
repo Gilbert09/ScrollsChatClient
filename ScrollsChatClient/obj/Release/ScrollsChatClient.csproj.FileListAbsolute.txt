@@ -1,0 +1,8 @@
+C:\Users\Tom\Desktop\ScrollsChatClient\ScrollsChatClient\bin\Release\ScrollsChatClient.exe
+C:\Users\Tom\Desktop\ScrollsChatClient\ScrollsChatClient\bin\Release\ScrollsChatClient.pdb
+C:\Users\Tom\Desktop\ScrollsChatClient\ScrollsChatClient\bin\Release\Newtonsoft.Json.dll
+C:\Users\Tom\Desktop\ScrollsChatClient\ScrollsChatClient\obj\Release\ScrollsChatClient.Form1.resources
+C:\Users\Tom\Desktop\ScrollsChatClient\ScrollsChatClient\obj\Release\ScrollsChatClient.Properties.Resources.resources
+C:\Users\Tom\Desktop\ScrollsChatClient\ScrollsChatClient\obj\Release\ScrollsChatClient.csproj.GenerateResource.Cache
+C:\Users\Tom\Desktop\ScrollsChatClient\ScrollsChatClient\obj\Release\ScrollsChatClient.exe
+C:\Users\Tom\Desktop\ScrollsChatClient\ScrollsChatClient\obj\Release\ScrollsChatClient.pdb
