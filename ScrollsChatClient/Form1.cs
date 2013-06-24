@@ -83,7 +83,7 @@ namespace ScrollsChatClient
             {
                 running = false;
                 writer.Close();
-                reader.Close();
+                reader.Close(); 
                 ns.Close();
                 client.Close();
             }
