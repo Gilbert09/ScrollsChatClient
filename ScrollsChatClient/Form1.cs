@@ -208,7 +208,7 @@ namespace ScrollsChatClient
                         return;
                     }
 
-                tabControl1.Invoke((MethodInvoker)delegate()
+                this.Invoke((MethodInvoker)delegate()
                 {
                     TabPage tp = new TabPage(roomEnter.roomName);
                     tp.Name = roomEnter.roomName + "Page";
@@ -270,7 +270,7 @@ namespace ScrollsChatClient
                             break;
 
                         }
-                        catch { }
+                        catch { Application.DoEvents(); }
                     }
                 });
 

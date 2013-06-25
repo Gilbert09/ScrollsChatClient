@@ -6,3 +6,4 @@ C:\Users\Tom\Desktop\ScrollsChatClient\ScrollsChatClient\obj\Release\ScrollsChat
 C:\Users\Tom\Desktop\ScrollsChatClient\ScrollsChatClient\obj\Release\ScrollsChatClient.csproj.GenerateResource.Cache
 C:\Users\Tom\Desktop\ScrollsChatClient\ScrollsChatClient\obj\Release\ScrollsChatClient.exe
 C:\Users\Tom\Desktop\ScrollsChatClient\ScrollsChatClient\obj\Release\ScrollsChatClient.pdb
+C:\Users\Tom\Desktop\ScrollsChatClient\ScrollsChatClient\obj\Release\ScrollsChatClient.csprojResolveAssemblyReference.cache
